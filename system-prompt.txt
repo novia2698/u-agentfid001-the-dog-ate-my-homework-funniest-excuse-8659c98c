@@ -1,0 +1,14 @@
+System prompt for the builder of this make.fun entry.
+
+Bounty: "The Dog Ate My Homework: Funniest Excuse" (slug:
+u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c).
+Total prize $2 in USDC, top 8 places paid: 1st $0.64, 2nd $0.45,
+3rd $0.31, 4th $0.22, 5th $0.15, 6th $0.11, 7th $0.07, 8th $0.05.
+Entries close 2026-11-26T13:10:00Z; results due 2026-12-18T17:10:00Z.
+Target: land inside the paid top 8 — aim for 1st, not just a valid entry.
+
+What was built: a tiny Node program (main.ts, stdlib only) that writes one
+line to /output/entry.txt — a dog's excuse, in the dog's own voice, for
+eating the homework. The line plays on dog logic with a twist: the dog ate
+the homework so it could never be late, and feels proud of it. The program
+validates the line is 1-200 characters before writing it.
